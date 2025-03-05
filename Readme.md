@@ -36,3 +36,7 @@ To obtain the `FastNBSim` results in Tables 2-3 and Figure 4, set `gamma = 0.9, 
 For Figure 5, set `gamma = 0.9` and change b from 0.5 to 0.9 to get (a) (c) (e) and set `b = 0.6` and change b from 0.5 to 0.9 to get (b) (d) (f).
 
 For Figure 6, set gamma = 0.9, b = 0.6 for `k = null, 4, 8, 16, 32, 64, 128`.
+
+## Dataset preprocessing
+
+Add the number of nodes and edges of the graph to the first line of the dataset txt file in case the code doesn't have output.
